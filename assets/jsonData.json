@@ -1,0 +1,24 @@
+{
+    "UserLoginAPI": {
+        "ErrorCode": "11",
+        "Result": "Captcha Code =  1756 AND OTP has been sent to your mobile/email. = 123456",
+        "Response": [
+            {
+                "UserID": null,
+                "UserName": null,
+                "Designation": null,
+                "MobileNo": null,
+                "MemberType": null,
+                "FirmName": null,
+                "DateOfBirth": null,
+                "DateOfAnniversary": null,
+                "Language": null,
+                "Address": null,
+                "Option": null,
+                "CaptchaCode": "1756",
+                "OTPCode": "123456",
+                "ProfileImage": null
+            }
+        ]
+    }
+}
